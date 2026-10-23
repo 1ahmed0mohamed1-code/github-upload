@@ -1,0 +1,3 @@
+run script 
+chmod +x ~/github-upload.sh
+~/github-upload.sh
